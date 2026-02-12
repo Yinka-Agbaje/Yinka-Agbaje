@@ -30,12 +30,12 @@ I am a Data Scientist, finished from  **Obafemi Awolowo University (OAU)** with 
 
 | Project | Domain | Tech Stack |
 | :--- | :--- | :--- |
-| [🗽 NYC Market Intelligence](https://github.com/OlayinkaAgbaje/nyc-market-intelligence) | **Real Estate / ETL** | Python, Multi-Format Integration |
+| [🗽 Airbnb-Sector-Integration-Pricing-Audit ](https://github.com/Yinka-Agbaje/airbnb-sector-intelligence-pricing-audit) | **Real Estate / ETL** | Python, Multi-Format Integration |
 | [🚀 Big Data Optimizer](https://github.com/OlayinkaAgbaje/big-data-optimizer) | **Data Engineering** | Memory Optimization, Pandas |
 | [🏆 Mapping Innovation](https://github.com/OlayinkaAgbaje/mapping-innovation-trends) | **Time-Series** | Longitudinal Analysis, Seaborn |
 | [🚨 LA Crime Optimization](https://github.com/OlayinkaAgbaje/la-crime-optimization) | **Public Safety** | Geospatial Analytics, Python |
 | [🎬 Netflix Nostalgia Audit](https://github.com/OlayinkaAgbaje/netflix-nostalgia-audit) | **Media Strategy** | Market Research, Matplotlib |
-| [🎓 NYC Education Audit](https://github.com/OlayinkaAgbaje/nyc-education-audit) | **Education** | Statistical Analysis, EDA |
+| [🎓 NYC-Academic-Performance-Audit](https://github.com/OlayinkaAgbaje/nyc-academic-performance-audit) | **Education** | Statistical Analysis, EDA |
 
 ---
 
