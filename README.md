@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 🚀 Olayinka Agbaje | Data Scientist
 
-I am a Data Scientist and I finished from  **Obafemi Awolowo University (OAU)** with a focus on **End-to-End Analytics and Machine Learning**. I specialize in translating complex, high-volume datasets into strategic narratives that drive decision-making.
+I am a Data Scientist, finished from  **Obafemi Awolowo University (OAU)** with a focus on **End-to-End Analytics and Machine Learning**. I specialize in translating complex, high-volume datasets into strategic narratives that drive decision-making.
 
 ---
 
@@ -25,6 +25,20 @@ I am a Data Scientist and I finished from  **Obafemi Awolowo University (OAU)** 
 - **Methodologies:** Data Auditing, Hypothesis Testing, Feature Engineering.
 
 ---
+
+## 🛠️ Featured Data Science Portfolio
+
+| Project | Domain | Tech Stack |
+| :--- | :--- | :--- |
+| [🗽 NYC Market Intelligence](https://github.com/OlayinkaAgbaje/nyc-market-intelligence) | **Real Estate / ETL** | Python, Multi-Format Integration |
+| [🚀 Big Data Optimizer](https://github.com/OlayinkaAgbaje/big-data-optimizer) | **Data Engineering** | Memory Optimization, Pandas |
+| [🏆 Mapping Innovation](https://github.com/OlayinkaAgbaje/mapping-innovation-trends) | **Time-Series** | Longitudinal Analysis, Seaborn |
+| [🚨 LA Crime Optimization](https://github.com/OlayinkaAgbaje/la-crime-optimization) | **Public Safety** | Geospatial Analytics, Python |
+| [🎬 Netflix Nostalgia Audit](https://github.com/OlayinkaAgbaje/netflix-nostalgia-audit) | **Media Strategy** | Market Research, Matplotlib |
+| [🎓 NYC Education Audit](https://github.com/OlayinkaAgbaje/nyc-education-audit) | **Education** | Statistical Analysis, EDA |
+
+---
+
 - ### 📊 GitHub Activity
 ![Olayinka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlayinkaAgbaje&show_icons=true&theme=radical)
 ---
