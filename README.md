@@ -1,6 +1,5 @@
 ## Hi there, I'm Olayinka Agbaje! 👋
 ### Data Scientist | Python Specialist | Business Intelligence Analyst
-
 I transform complex datasets into strategic business solutions. My portfolio focuses on **Data Engineering**, **Market Intelligence**, and **Predictive Analytics**.
 
 ---
@@ -52,7 +51,7 @@ I transform complex datasets into strategic business solutions. My portfolio foc
 
 ---
 
-- ### 📊 GitHub Activity
-![Olayinka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlayinkaAgbaje&show_icons=true&theme=radical)
-
----
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Yinka-Agbaje&theme=radical" alt="GitHub Streak" />
+</p>
