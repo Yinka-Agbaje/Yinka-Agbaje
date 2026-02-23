@@ -11,18 +11,21 @@ I transform complex datasets into strategic business solutions. My portfolio foc
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
 
 ### 📊 Visualization & BI Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Vis-7c1155?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Vis-7c1155?logo=python&logoColor=white)
 
 ### ⚙️ DevOps & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 
 ### 🧠 Key Competencies
 ![Regression](https://img.shields.io/badge/ML-Regression-blueviolet?style=flat-square)
@@ -37,6 +40,7 @@ I transform complex datasets into strategic business solutions. My portfolio foc
 
 | **Project** | **Domain** | **Tech Stack** |
 | :--- | :--- | :--- |
+| [💳 Fintech-Credit-Scoring-Engine ](https://github.com/Yinka-Agbaje/fintech-credit-scoring) | Machine Learning & Fintech| `Python` ` LightGBM` `Streamlit` `Git`|
 | [🗽 Airbnb-Sector-Integration-Pricing-Audit ](https://github.com/Yinka-Agbaje/Airbnb-Sector-Integration-Pricing-Audit) | Real Estate / ETL | `Data Integration` `Multi-Format` `Pricing Audit` |
 | [🚀 Big Data Optimizer](https://github.com/Yinka-Agbaje/Big-data-optimizer) | **Data Engineering**| `Memory Optimization` `Scalability` `Pandas` |
 | [🏆 Mapping Innovation](https://github.com/Yinka-Agbaje/Mapping-Innovation-trends) | **Time-Series** | `Time-Series Analysis` `Longitudinal Study` |
