@@ -55,7 +55,3 @@ I transform complex datasets into strategic business solutions. My portfolio foc
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Yinka-Agbaje&theme=radical" alt="GitHub Streak" />
-</p>
